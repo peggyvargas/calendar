@@ -9,7 +9,8 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Calendar</title>
+        <link href="css/estilos.css" rel="stylesheet" type="text/css"/>
+        <title>Calendar</title>        
     </head>
     <body>
         <%@ include file= "WEB-INF/jspf/banner2.jspf" %>
